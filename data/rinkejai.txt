@@ -1,0 +1,1640 @@
+Matematikos ir informatikos fakultetas
+	Rinkėjo pavardė, vardas
+	Adamonis Andrius
+	Ambrazevičius Algirdas
+	Andrikonis Julius
+	Apynis Antanas
+	Ašeris Vytautas
+	Bagdonavičius Vilijandas
+	Bareikis Gintautas
+	Baronas Darius
+	Baronas Romas
+	Birštunas Adomas
+	Bloznelis Mindaugas
+	Brilingaitė Agnė
+	Bukauskas Linas
+	Būtėnas Linas
+	Celov Dmitrij
+	Čekanavičius Vydas
+	Čiukčys Donatas
+	Čivilis Alminas
+	Čyras Vytautas
+	Dapkūnas Sigitas
+	Daukšas Vaclovas
+	Dičiūnas Valdas
+	Domarkas Aleksas
+	Drungilas Paulius
+	Dubickas Artūras
+	Eglinskas Mindaugas
+	Eidukevičius Rimantas
+	Elijio Aistė
+	Gaigalas Edmundas
+	Garunkštis Ramūnas
+	Gražulis Saulius
+	Grevys Andrius
+	Grigutis Andrius
+	Grigutis Rimantas
+	Grinis Irus
+	Ignatavičiūtė Jolita
+	Ivanauskas Feliksas
+	Janeliūnas Arūnas
+	Javtokas Algirdas
+	Juozapavičius Algimantas
+	Juozulynas Almantas
+	Karčiauskas Kęstutis
+	Kareiva Simonas
+	Kašuba Romualdas
+	Katauskis Pranas
+	Kaulakytė Kristina
+	Kavaliauskas Algis
+	Kazakevičius Vytautas
+	Krasauskas Rimvydas
+	Kregždė Arvydas
+	Kudžma Ričardas Juozas
+	Kurtinaitis Andrius
+	Kutka Eduardas
+	Kvedaras Virmantas
+	Lapin Kristina
+	Lapinskas Remigijus
+	Lenkšas Antanas
+	Levulienė Rūta
+	Laurinčikas Antanas
+	Leipus Remigijus
+	Liubinskas Kęstutis
+	Mackevičius Vigirdas
+	Mačiulis Algirdas
+	Maldeikienė Aušra
+	Maniušis Vytautas
+	Manstavičius Eugenijus
+	Manstavičius Martynas
+	Markevičiūtė Jurgita
+	Masiulis Rokas
+	Meilūnas Mečislavas
+	Meškauskas Tadas
+	Mickus Kazimieras
+	Mitašiūnas Antanas
+	Mitašiūnaitė-Besson Ieva
+	Mizara Kęstutis
+	Murauskas Gediminas
+	Navickis Kazimieras
+	Norgėla Stanislovas Leonas
+	Norvaiša Rimas
+	Novikas Aivaras
+	Paulauskas Vygantas
+	Peldžius Stasys
+	Petrauskas Karolis
+	Petrova Olga
+	Pikturna Aleksas
+	Pileckas Konstantinas
+	Plankis Tomas
+	Plikusas Aleksandras Ernestas
+	Plukas Mindaugas
+	Puriuškis Gintaras
+	Pozdniakov Viačeslav
+	Puplinskaitė Donata
+	Račkauskas Alfredas
+	Ragaišis Saulius
+	Rastenė Irma
+	Raudys Aistis
+	Raudys Šarūnas
+	Repšys Šarūnas
+	Sajavičius Svajūnas
+	Savičienė Laura
+	Skakauskas Vladas
+	Skersys Gintaras
+	Skorniakov Viktor
+	Skučaitė Aldona
+	Skujus Mindaugas
+	Stakėnas Vilius
+	Stankus Eugenijus
+	Stepanauskas Gediminas
+	Stočkus Arūnas
+	Šermokas Albertas
+	Šiaulys Jonas
+	Štikonienė Olga
+	Undzėnas Valdas
+	Vaicekauskas Rimantas
+	Vaitkus Pranas
+	Zacharovas Vytas
+	Zemlys Vaidotas
+	Zubė Severinas
+	Žagūnas Jonas
+
+ 
+Fizikos fakultetas
+	Rinkėjo pavardė, vardas
+	Abramavičius Darius
+	Aleksa Valdemaras
+	Anisimovas Egidijus
+	Arlauskas Kęstutis
+	Bagdonas Saulius
+	Bagdzevičius Šarūnas
+	Balachninaitė Ona
+	Balevičius Vytautas
+	Banys Jūras
+	Bartašiūtė Stanislava
+	Bernotas Andrius
+	Brilingas Algirdas
+	Bučinskas Juozas
+	Butkus Rytis
+	Butkutė Renata
+	Čeponkus Justinas
+	Čiburys Arūnas
+	Čiplys Daumantas
+	Deveikis Viktoras
+	Dikčius Gintaras
+	Dobrovolskas Darius
+	Dubietis Audrius
+	Gadonas Roaldas
+	Gaidelis Valentas
+	Gaižauskas Eugenijus
+	Gajdosik Thomas
+	Gavriušinas Vladimiras
+	Genevičius Kristijonas
+	Giriūnaitė Ramutė
+	Glemža Kazimieras
+	Grigalaitis Robertas
+	Grigonis Rimantas
+	Gruodis Alytis
+	Ivaška Vladislovas
+	Jankauskas Vygintas
+	Jarutis Vygandas
+	Jelmakas Edgaras
+	Jonkus Vytautas
+	Juodis Laurynas
+	Juška Giedrius
+	Juška Gytis
+	Kalendra Vidmantas
+	Kalesinskas Vidas
+	Karenauskaitė Violeta
+	Kaškelytė Dalia
+	Kazakevičius Edvardas
+	Kežionis Algimantas
+	Kuliešius Feliksas
+	Kunigėlis Vytautas
+	Kuokštis Edmundas
+	Lozovski Tadeuš
+	Macutkevič Jan
+	Mačernis Mindaugas
+	Maldžius Robertas
+	Malinauskas Mangirdas
+	Maršalka Arūnas
+	Matijošius Aidas
+	Matukas Jonas
+	Melninkaitis Andrius
+	Mickevičius Jūras
+	Nekrašas Nerijus
+	Orliukas Antanas Feliksas
+	Paipulas Domas
+	Pavasaris Česlovas
+	Pažėra Aloyzas Antanas
+	Peckus Martynas
+	Piskarskas Rimtautas
+	Pyragaitė Viktorija
+	Poškus Andrius
+	Pralgauskaitė Sandra
+	Purlys Romaldas
+	Pūras Romualdas
+	Rancova Olga
+	Raudeliūnas Saulius
+	Rimeika Romualdas
+	Rinkūnas Ringaudas
+	Rotomskis Ričardas
+	Samulionis Vytautas
+	Sidaravičius Donatas Jonas
+	Sirutkaitis Valdas
+	Sliaužys Gytis
+	Smilgevičius Valerijus
+	Sobiestijanskas Ričardas
+	Sperauskas Julius
+	Streckytė Giedrė Virgilija
+	Sūdžius Jokūbas
+	Šablinskas Valdas
+	Šalkus Tomas
+	Tamošauskas Gintaras
+	Tamošiūnas Stasys
+	Tamošiūnas Vincas
+	Urbonienė Vidita
+	Vaičaitis Virgilijus
+	Valiulis Gintaras
+	Valkūnas Leonas
+	Vansevičius Vladas
+	Varanavičius Arūnas
+	Vengris Mikas
+	Vengris Saulius
+	Viliūnas Mindaugas
+	Vyšniauskas Juozas
+	Žalkauskas Valerijonas
+	Žilinskas Pranas Juozas
+
+ 
+Chemijos fakultetas
+	Rinkėjo pavardė, vardas
+	Abrutis Adulfas
+	Balevičiūtė Ieva
+	Barkauskas Jurgis
+	Beganskienė Aldona
+	Brukštus Algirdas
+	Budrienė Saulutė
+	Bukšnaitienė Rita
+	Burbulienė Milda Malvina
+	Butkus Eugenijus
+	Cesiulis Henrikas
+	Čikotienė Inga
+	Daujotis Vytautas
+	Dodonova Jelena
+	Grigoravičiūtė-Puronienė Inga
+	Jakubkienė Virginija
+	Jasaitis Darius Juozas
+	Kareiva Aivaras
+	Kaušaitė-Minkštimienė Asta
+	Kiuberis Jonas
+	Kochanė Tatjana
+	Kubilius Virgaudas
+	Makuška Ričardas
+	Malinauskas Albertas
+	Margarian Žana
+	Masevičius Viktoras
+	Padarauskas Audrius
+	Pamedytytė Virginija
+	Plaušinaitienė Valentina
+	Plaušinaitis Deivis
+	Ramanavičienė Almira
+	Ramanavičius Arūnas
+	Raudonis Rimantas
+	Stončius Sigitas
+	Šakirzanovas Simas
+	Šaltytė Zita
+	Tautkus Stasys
+	Tumkevičius Sigitas
+	Vaitkus Rimantas
+	Valiūnienė Aušra
+	Vareikis Aušvydas
+	Vičkačkaitė Vida
+	Višnevskij Česlav
+	Žalga Artūras
+	Žilinskas Albinas
+
+ 
+Gamtos mokslų fakultetas
+	Rinkėjo pavardė, vardas
+	Alaburda Aidas
+	Arbačiauskas Kęstutis
+	Armalytė Julija
+	Aukštikalnienė Rasa
+	Bagdonienė Lida
+	Bakienė Elena
+	Bautrėnas Artūras
+	Beconytė Giedrė
+	Beitas Kastytis
+	Bendikienė Vida
+	Bernotienė Rasa
+	Bičkauskas Giedrius
+	Biteniekytė Marija
+	Brazauskas Antanas
+	Bražukienė Izolda Ona
+	Bukantis Arūnas
+	Bukelskis Egidijus
+	Čečys Audrius
+	Česnulevičius Algimantas
+	Česnienė Tatjana
+	Čitavičius Donaldas Jonas
+	Dabkevičienė Daiva
+	Daktariūnas Algis
+	Dedonytė Veronika
+	Dumbliauskienė Marytė
+	Dundulis Kastytis Juozas
+	Gadeikis Saulius
+	Gadeikytė Sonata
+	Giedraitytė Gražina
+	Grikšienė Ramunė
+	Guobytė Rimantė
+	Havelka Jekaterina
+	Ignatavičius Gytautas
+	Jarmalaitė Sonata
+	Jokšas Kęstutis
+	Jonušienė Violeta
+	Juzėnas Sigitas
+	Kadziauskas Jurgis Vidmantas
+	Kalėdienė Lilija
+	Kaminskas Donatas
+	Kavaliauskas Paulius
+	Kavoliūtė Filomena
+	Kažys Justas
+	Kirvelienė Vida
+	Kisnierienė Vilma
+	Kleišmantas Arūnas
+	Kleizaitė Violeta
+	Klizas Petras
+	Kostkevičienė Jolanta
+	Krupickaitė Dovilė
+	Kuisienė Nomeda
+	Kutorga Ernestas
+	Labeikytė Danutė
+	Lastauskienė Eglė
+	Lazauskienė Jurga
+	Lazutka Juozas Rimantas
+	Mačiulytė Jurgita
+	Markuckas Arvydas
+	Meškauskaitė Edita
+	Michelevičius Dainius
+	Mierauskienė Jūratė
+	Mokrik Robert
+	Morkūnas Vaidotas
+	Motuza Matuzevičius Gediminas
+	Naujalis Jonas Remigijus
+	Oškinis Vytautas
+	Patamsytė Jolanta
+	Petrašiūnas Andrius
+	Pilipaitis Albinas Algirdas
+	Pleskačiauskas Aleksandras
+	Podėnas Sigitas
+	Podėnienė Virginija
+	Prapiestienė Regina
+	Prigodina Lukošienė Ingrida
+	Pupienis Donatas
+	Puzirauskas Rimantas
+	Račkauskas Vytautas
+	Radzevičius Sigitas
+	Rakauskas Rimantas
+	Rasimavičius Mindaugas
+	Raugalas Juozas
+	Rimkus Egidijus
+	Rukšėnas Osvaldas
+	Rukšėnienė Jonė
+	Sakalauskas Vidmantas
+	Sasnauskienė Aušra
+	Sasnauskienė Zofija
+	Sinkevičius Stanislovas
+	Skorupskas Ričardas
+	Skujienė Grita
+	Slapšytė Gražina
+	Stankūnavičius Gintautas
+	Stonevičius Edvinas
+	Sužiedėlienė Edita
+	Šimanauskienė Rasa
+	Šinkūnas Petras
+	Šliaupa Saulius
+	Šoliūnas Alvydas
+	Timonina Ana
+	Trakimas Giedrius
+	Tučas Rolandas
+	Tupčiauskaitė Jūratė Juzė
+	Turčinavičienė Jurga
+	Ulevičius Alius
+	Vaikutienė Giedrė
+	Vaitkūnienė Virginija
+	Valiuškevičius Gintaras
+	Veteikis Darijus
+	Volungevičius Jonas
+	Zimkus Aurelijus
+	Žvingila Donatas
+
+ 
+Medicinos fakultetas
+	Rinkėjo pavardė, vardas
+	Abaravičius Jonas Algis
+	Aidietienė Sigita
+	Alekna Vidmantas
+	Ališauskas Jonas
+	Almonaitis Vytenis
+	Ambrozaitis Arvydas
+	Ambrozaitytė Laima
+	Andrijauskas Audrius
+	Arasimavičius Justas
+	Arlauskienė Audronė
+	Astrauskienė Audronė
+	Ašoklienė Loreta
+	Ašoklis Rimvydas Stanislovas
+	Aučynienė Ligita
+	Badaras Robertas
+	Badarienė Jolita
+	Basys Vytautas
+	Bagdonaitė Loreta
+	Barkus Arūnas
+	Bartkevičienė Daiva
+	Beiša Virgilijus
+	Bendinskaitė Rūta
+	Benušienė Eglė
+	Bernatavičius Juozas
+	Beržanskytė Aušra
+	Bylaitė-Bučinskienė Matilda
+	Blažienė Audra
+	Briedienė Rūta
+	Brimas Gintautas
+	Brogienė Daiva
+	Broslavskis Eugenijus
+	Brukienė Vilma
+	Budrikienė Snežana
+	Budrionienė Regina
+	Budrys Valmantas
+	Bumbulienė Žana
+	Butikis Mindaugas
+	Butkuvienė Irena
+	Butrimienė Irena
+	Characiejus Dainius
+	Cimbalistienė Loreta
+	Cirtautas Alma
+	Čelutkienė Jelena
+	Čepulis Rolandas Stasys
+	Čerkauskienė Rimantė
+	Činčikas Darius
+	Čiuladaitė Živilė
+	Čypienė Rasa Joana
+	Dadalienė Rūta
+	Dadonienė Jolanta
+	Danila Edvardas
+	Danilevičiūtė Vida
+	Dasevičius Darius
+	Deksnytė Aušra
+	Dembinskas Algirdas
+	Dementavičienė Jūratė
+	Denapienė Goda
+	Dervinytė-Bongarzoni Asta
+	Didžiapetrienė Janina
+	Dobrovolskij Valerij
+	Domarkienė Ingrida
+	Drąsutienė Gražina Stanislava
+	Drazdienė Nijolė
+	Drėgūnas Kęstutis
+	Drukteinis Saulius
+	Dubakienė Rūta
+	Dumčius Sigitas
+	Dzetaeckienė Rita
+	Dženkevičiūtė Vilma
+	Ėmužytė Regina
+	Firantienė Regina
+	Gaigalaitė Virginija
+	Gavelienė Edita
+	Gefenas Eugenijus
+	Germanavičius Arūnas
+	Ginevičienė Valentina
+	Gintautas Armantas
+	Grabauskienė Virginija
+	Gradauskas Audrius
+	Grebelis Arimantas
+	Grigaitienė Jūratė
+	Grikinienė Jurgita
+	Griškevičius Laimonas
+	Gruslys Vygantas
+	Hendrixson Vaiva
+	Ivanauskaitė Deimantė
+	Ivaškevičienė Inga
+	Ivaškevičienė Loreta
+	Ivaškevičius Juozas
+	Jablonskienė Valerija
+	Jaeck Virginija
+	Jakaitienė Audronė
+	Jakimavičienė Eglė Marija
+	Jamontaitė Ieva Eglė
+	Jančorienė Ligita
+	Janilionis Ričardas
+	Jankauskas Rimantas
+	Jankauskienė Augustina
+	Jankevičius Feliksas
+	Janonienė Dainė
+	Janulevičiūtė Nijolė Marija
+	Jasulaitis Algimantas
+	Jatužis Dalius
+	Javtokas Zenonas
+	Juocevičius Alvydas
+	Juodaitė Račkuskienė Audronė
+	Juozulynas Jurgis Algirdas
+	Jurgauskienė Laimutė Genovaitė
+	Kačergius Tomas
+	Kairys Jonas
+	Kaladytė Lokominienė Rūta
+	Kalibatienė Danutė
+	Kalinauskas Gintaras
+	Kaminskas Arvydas
+	Karalius Rimantas
+	Karčiauskaitė Dovilė
+	Karpavičienė Vaiva
+	Kasiulevičius Vytautas
+	Kasnauskienė Jūratė
+	Kaubrys Gintaras Ferdinandas
+	Kazėnaitė Edita
+	Kemežys Robertas
+	Kesienė Jūratė
+	Kinčinienė Odeta
+	Kirkliauskienė Agnė
+	Kiverytė Silvija
+	Kleinotienė Gražina
+	Klimašauskas Andrius
+	Kocius Manvilius
+	Kontrimavičiūtė Eglė
+	Kučinskas Vaidutis
+	Kučinskienė Zita Aušrelė
+	Kuolienė Kristina
+	Kuprevičienė Nerija
+	Kvedarienė Violeta
+	Laucevičius Aleksandras
+	Laurikėnas Kęstutis
+	Laurinaitis Eugenijus
+	Laurinavičius Arvydas
+	Laužikienė Dalia
+	Lebetkevičius Virgilijus
+	Lenickienė Svetlana
+	Lesinskas Eugenijus
+	Lesinskienė Sigita
+	Letautienė Simona Rūta
+	Liakina Valentina
+	Liekienė Daina
+	Linkevičienė Laura
+	Linkevičius Tomas
+	Mačernytė Dainora
+	Mačiulienė Kornelija
+	Malickaitė Radvilė
+	Malyško Elvira
+	Mažeikienė Asta
+	Manelienė Rasmutė
+	Marcijonienė Aušra
+	Marcinkutė Audronė
+	Marčiukaitienė Irena Ona
+	Matulevičienė Aušra
+	Matulionytė Raimonda
+	Matuzevičienė Rėda
+	Meškienė Raimonda
+	Mickys Ugnius
+	Miežutavičiūtė Vitalija Janina
+	Miglinas Marius
+	Mikaliūštienė Aldona
+	Miliauskienė Žydrūnė
+	Miliūnienė Estera
+	Minderis Mindaugas
+	Misiūra Jonas
+	Mišeikytė Kaubrienė Edita
+	Muntianaitė Inga
+	Narkevičiūtė Irena
+	Navickas Alvydas
+	Nedzinskienė Eglė
+	Nogienė Giedrė
+	Norkūnas Gediminas
+	Olšauskaitė Vilma
+	Ožeraitienė Violeta
+	Paliulytė Virginija
+	Palšytė Teresė
+	Pamerneckas Algimantas
+	Panavienė Violeta Vladislava
+	Paulauskienė Skaidrė
+	Pečeliūnas Valdas
+	Pečiulienė Vytautė
+	Petraitis Robertas
+	Petrauskienė Birutė
+	Petroška Donatas
+	Petrulionienė Žaneta
+	Pletkus Rolandas
+	Pliaukšta Raimondas
+	Popov Kiril
+	Porvaneckas Narūnas
+	Pranculis Aidas
+	Preikšaitienė Eglė
+	Pūras Dainius
+	Pūrienė Alina
+	Radzišauskienė Daiva
+	Ragelienė Lina
+	Ramašauskaitė Diana
+	Ramonas Henrikas
+	Rastenienė Rūta
+	Raudonytė Inga
+	Rimantienė Aušra
+	Rimkevičius Arūnas
+	Rimkuvienė Jūratė
+	Rimševičius Laurynas
+	Rinkūnienė Egidija
+	Ryliškienė Kristina
+	Ryliškis Sigitas
+	Ročka Saulius
+	Ručinskas Kęstutis
+	Rudzevičienė Odilija
+	Rugienė Rita
+	Rutkūnas Vygandas
+	Saltanavičius Robertas
+	Saniukas Kęstutis
+	Semėnienė Palmyra
+	Sereikė Ieva
+	Simanavičienė Stanislava
+	Simanauskas Kazys
+	Simutis Gintaras
+	Skerlienė Birutė
+	Sketerskienė Rita
+	Speičienė Danutė Marija
+	Staigis Rimgaudas
+	Stiklerytė Aušra
+	Stropuvienė Sigita
+	Strupas Kęstutis
+	Stukas Rimantas
+	Stundžienė Rasa
+	Suchomlinov Andrej
+	Sučila Mykolas
+	Sušinskas Jurgis
+	Sveikata Kęstutis
+	Šapoka Virginijus
+	Šatkauskas Igoris
+	Šerpytis Mindaugas
+	Šerpytis Pranas
+	Šilkūnas Mindaugas
+	Šimkūnaitė-Rizgelienė Renata
+	Šipylaitė Jūratė
+	Šiurkutė Aldona
+	Šliužas Vytautas
+	Šurkienė Genė
+	Švedienė Saulė
+	Tamošiūnas Algirdas Edvardas
+	Tarutis Virgilijus
+	Trainavičius Kęstutis
+	Tumienė Birutė
+	Tutkuvienė Janina
+	Uktverytė Ingrida
+	Urbanavičius Vaidotas
+	Urbelis Algimantas
+	Urbonas Vaidotas
+	Usonis Vytautas
+	Utkus Algirdas
+	Uvarovas Valentinas
+	Vaičiūnienė Daiva
+	Vainauskas Saulius
+	Vaitkevičiūtė Liucija
+	Vaitkienė Dalia
+	Vaitkienė Rima
+	Vaitkus Alfredas
+	Valantinas Jonas
+	Valevičienė Nomeda Rima
+	Valiulis Algirdas
+	Valiulis Arūnas
+	Valiūnienė Jūratė
+	Vankevičienė Ramunė
+	Varnienė Lina
+	Varvuolytė Sonata
+	Venalis Algirdas
+	Vencevičienė Lina
+	Veniūtė Marija
+	Verkauskas Gilvydas
+	Vilkevičius Gintaris Lionginas
+	Vitkus Kęstutis
+	Vosylius Saulius
+	Zablockienė Birutė
+	Zablockis Rolandas
+	Zabulienė Lina
+	Zakarevičienė Jolita
+	Zakarkaitė Diana
+	Zaleckas Linas
+	Zaleckienė Vaida
+	Zubaitė Jurgita
+	Žagminas Kęstutis
+	Žalgevičienė Violeta
+	Žalnora Aistis
+	Želvys Arūnas
+	Žėkas Vytautas
+	Žilinskaitė Virginija
+	Žlabys Pranas
+	Žurauskas Edvardas
+Sveikatos ir sporto centras
+	Armonienė Jūratė
+	Berūkštienė Loreta
+	Bliumkinienė Aleksandra
+	Cijūnėlis Rimantas
+	Gritėnienė Teresė
+	Kaminskas Rimantas
+	Kniukšta Romualdas
+	Liepinaitienė Džiuljeta
+	Naužemys Remigijus
+	Samsonienė Laimutė
+	Saplinskas Juozas
+	Turskis Rimantas
+	Žilinskienė Ramunė
+
+ 
+Komunikacijos fakultetas
+	Rinkėjo pavardė, vardas
+	Abarius Povilas
+	Atkočiūnienė Zenona Ona
+	Bliūdžiuvienė Nijolė
+	Braziūnienė Alma
+	Budrevičius Algirdas
+	Girnienė Ingrida
+	Grebliauskienė Beata
+	Gudauskas Andrius
+	Gudinavičius Arūnas
+	Janiūnienė Erika
+	Januševičienė Rasa
+	Jastramskis Deimantas
+	Kaunas Domas
+	Keršytė Nastazija
+	Laužikas Rimvydas
+	Macevičiūtė Elena
+	Manžuch Zinaida
+	Markevičiūtė Lina
+	Martišius Mantas
+	Matkevičienė Renata
+	Mažylė Jolanta
+	Misiūnas Remigijus
+	Mozūraitė Vita
+	Navickienė Aušra
+	Pacevičius Arvydas
+	Pečeliūnaitė Angelė
+	Pečiulis Žygintas
+	Pranaitis Regimantas
+	Rudžionienė Jurgita
+	Stonkienė Marija
+	Vaišnys Andrius
+
+ 
+Istorijos fakultetas
+	Rinkėjo pavardė, vardas
+	Abromaitis Audrius
+	Babinskas Nerijus
+	Bairašauskaitė Tamara
+	Brandišauskas Donatas
+	Bukelevičiūtė Dalia
+	Bumblauskas Alfredas
+	Butkus Zenonas
+	Čepaitienė Rasa
+	Dolinskas Vydas
+	Drėmaitė Marija
+	Gaidis Ryšard
+	Gailius Bernardas
+	Gieda Aurelijus
+	Grodis Andrius
+	Jakubčionis Algirdas
+	Jovaiša Liudas
+	Karpavičienė Jolanta
+	Kasperavičius Algis Povilas
+	Kaubrys Saulius
+	Kirkienė Genė
+	Klumbys Valdemaras
+	Kraujelis Ramojus
+	Kulevičius Salvijus
+	Kuncevičius Albinas
+	Lempertienė Larisa
+	Leonavičiūtė Inga
+	Luchtanas Aleksiejus
+	Merkevičius Algimantas
+	Narbutas Algirdas
+	Nemickienė Rėda
+	Pamerneckis Stanislovas
+	Petrauskas Rimvydas
+	Poškienė Justina
+	Potašenko Grigorijus
+	Raila Eligijus
+	Saviščevas Eugenijus
+	Skurvydaitė Loreta
+	Steponavičienė Lirija
+	Streikus Arūnas
+	Šatavičius Egidijus
+	Šepetys Nerijus
+	Šermukšnytė Rūta
+	Šimėnas Valdemaras
+	Šlimienė Neringa
+	Šmigelskas Ramūnas
+	Švedas Aurimas
+	Tamulynas Linas
+	Valikonytė Irena
+	Vasiliauskas Artūras
+	Verbickienė Jurgita
+	Vėlius Gintautas
+	Viskantaitė-Saviščevienė Saulė
+	Vitkauskaitė Dalia
+	Vyšniauskas Arūnas
+
+ 
+Filologijos fakultetas
+	Rinkėjo pavardė, vardas
+	Bajariūnienė Jadvyga
+	Baranauskienė Rasa
+	Baronienė Jūratė Dalia
+	Bartkuvienė Linara
+	Beržaitė Dagnė
+	Bingelienė Ramutė
+	Brazauskienė Jelena
+	Bredelis Kęstutis
+	Briedis Laimonas
+	Burov Aleksej
+	Būrė Dainius
+	Černiuvienė Liucija
+	Čičinskaitė Regina
+	Čiočytė Dalia
+	Čiurinskas Mintautas
+	Dailidėnaitė Alina
+	Dalecka Teresa
+	Dambrauskaitė Muralienė
+	Daunorienė Justina
+	Davlevič Miroslav
+	Dikmonienė Jovita
+	Dručkutė Genovaitė
+	Dubietis Povilas
+	Fearon Mark Richard
+	Fedorovič Irena
+	Garbačiauskas Paulius
+	Geben Kinga
+	Grigaliūnienė Jonė
+	Gudavičienė Eglė
+	Guogienė Diana
+	Hauglund Cecilie
+	Hilbig Inga
+	Holvoet Aksel
+	Jakubėnas Regina
+	Jasiulionienė Alma
+	Jasiūnaitė Birutė
+	Juchnevičienė Nijolė
+	Judžentytė Gintarė
+	Juknevičienė Rita
+	Kabašinskaitė Birutė
+	Kairienė Audronė
+	Kaminskienė Ligija
+	Kardelis Vytautas
+	Kasteckienė Jurga
+	Kaškelevičienė Aurelija Ona
+	Katinas Daumantas
+	Kazlauskienė Vitalija
+	Keršienė Dovilė
+	Keršytė Nijolė
+	Kičaitė-Petraitienė Rasa
+	Klioštoraitytė Rasa
+	Klišienė Neringa
+	Konickaja Jelena
+	Kontutytė Eglė
+	Koženiauskienė Regina
+	Ktitorova Tatjana
+	Kučinskienė Audronė
+	Kumetaitienė Jūratė
+	Kutanovienė Elvyra
+	Kvietkauskas Mindaugas
+	Lapinskas Saulius
+	Lassan Eleonora
+	Laužikas Laimutis
+	Lavrinec Pavel
+	Liberienė Snieguolė Marija
+	Lichačiova Ala
+	Linkevičienė Nijolė
+	Londareva Tatjana
+	Maciūnienė Anna
+	Markova Svetlana
+	Masiulionytė Virginija
+	Maskaliūnienė Nijolė
+	Matulevičienė Saulė
+	Mažukėlytė Sigita
+	Mažul Beata
+	Melnikova Irina
+	Michailova Galina
+	Mickūnaitė Griškevičienė Aurelija
+	Migauskienė Rita
+	Miškinienė Galina
+	Miškinienė Irena
+	Našlėnaitė Eberhardt Vaida
+	Pakerys Jurgis
+	Paura Markas
+	Pažūsis Lionginas
+	Perkauskytė Lina
+	Petrašiūnienė Elvyra
+	Plaza Velasco Marta
+	Pociūtė Abukevičienė Dainora
+	Pribušauskaitė Joana
+	Ramonienė Meilutė
+	Rinkevičius Vytautas
+	Ryvitytė Birutė
+	Rudaitytė Regina
+	Rutkovskaja Krystina
+	Samalavičius Almantas Liudas
+	Satkauskytė Dalia
+	Sausverde Erika
+	Senčenko Nina
+	Sinkevičiūtė Daiva
+	Skirmantas Petras
+	Smetona Antanas
+	Smetonienė Irena
+	Speičytė Brigita
+	Spraunienė Birutė
+	Sroda Diana
+	Stankevičiūtė Valentina
+	Steponavičiūtė Aleksiejūnienė Ieva
+	Strockis Mindaugas
+	Stumbrienė Virginija
+	Stundžia Bonifacas
+	Stungienė Augustina
+	Subačius Paulius Vaidotas
+	Svarevičiūtė Kristina
+	Sverdiolas Arūnas
+	Šeškauskienė Inesa
+	Šileikaitė-Kaishauri Diana
+	Šinkūnienė Jolanta
+	Šlapkauskaitė Rūta
+	Šolienė Audronė
+	Štikonaitė Irena
+	Tamošaitienė Aušra
+	Tamošaitis Regimantas
+	Tikuišienė Audinga
+	Tumasonis Vladas
+	Tūtlytė Rita
+	Urba Kęstutis
+	Urbonaitė Justina
+	Usonienė Aurelija
+	Ušinskienė Viktorija
+	Vaicekauskienė Loreta
+	Vaisėtaitė Eglė
+	Valančiauskienė Aušra
+	Valentinavičienė Daina
+	Valiukienė Vita
+	Varneckaitė Ieva
+	Vaškevičienė Lina
+	Venckutė Regina
+	Veteikis Tomas
+	Vidugirytė-Pakerienė Inga
+	Vilkienė Loreta
+	Villanueva Svensson Miguel
+	Vitkauskienė Vilhelmina
+	Vyšniauskienė Inga
+	Vlasova Tatjana
+	Volungevičienė Skaistė
+	Whyte Francis Rae
+	Zaleskaja Beata
+	Zolubienė Agnė
+	Zubaitienė Vilma
+	Žeimantienė Vaiva
+	Žemaitytė Gintautė
+	Žilinskaitė-Šinkūnienė Eglė
+ 
+Orientalistikos centras
+	Beinorius Audrius
+	Čaprockij Romuald
+	Davėnaitė Violeta
+	Jaskūnas Valdas
+	Korobov Vladimir
+	Larbi Maritana
+	Poškaitė Loreta
+	Statkienė Natela
+	Švambarytė Dalia
+	Vydūnas Vytis
+
+ 
+Ekonomikos fakultetas
+	Rinkėjo pavardė, vardas
+	Adomaitienė Roma
+	Andrejauskas Tomas
+	Bagotyrius Gintautas
+	Balčiūnas Norbertas
+	Barčkutė Ona
+	Bartkus Algirdas
+	Barzdenytė Bronislava
+	Belinskaja Larisa
+	Berdikšlienė Jolanta
+	Bikas Egidijus
+	Budrionytė Ramunė
+	Časas Ramūnas
+	Čekanavičius Linas
+	Česynienė Rima
+	Činčikas Nerijus
+	Degutis Mindaugas
+	Dikčius Vytautas
+	Diskienė Danuta
+	Drūteikienė Greta
+	Fominienė Asta
+	Gaižauskas Lionius
+	Gaižutis Algis
+	Galinienė Birutė
+	Gavelis Vytautas
+	Gerikienė Valerija
+	Giedraitis Vincentas Rolandas
+	Giriūnas Lukas
+	Grinkytė Roberta
+	Ivanauskas Robertas
+	Jasienė Meilutė
+	Jatuliavičienė Gražina
+	Jočienė Aldona
+	Kamarauskienė Irma
+	Kanapickienė Rasa
+	Karpuškienė Vita
+	Kasnauskienė Gindrutė
+	Kazakevičienė Gėlytė
+	Kėdaitis Vytautas
+	Klimašauskienė Danguolė
+	Kropienė Rūta
+	Kučinskienė Marija
+	Kulvinskienė Violeta Raimonda
+	Kuzmickas Darius
+	Lakis Vaclovas
+	Laužadytė Agnė
+	Lazutka Romas
+	Lukoševičius Rimantas
+	Mačerinskienė Aida
+	Marčinskas Albinas
+	Martinavičius Jonas
+	Medaiskis Teodoras
+	Melnikas Borisas
+	Minkevičienė Neringa
+	Miškinis Algirdas
+	Niaura Jonas
+	Novickytė Lina
+	Paliulytė Regina
+	Pikturnienė Indrė
+	Pladis Benjaminas
+	Paškevičius Arvydas
+	Povilaitis Bronius
+	Rastenienė Aušrytė
+	Ratkevičius Česlovas
+	Raziūnienė Daiva
+	Razma Ainis
+	Rumšas Gediminas
+	Ruževičius Juozas
+	Savickas Vilius
+	Senkus Kastytis
+	Serafinas Dalius
+	Skyrius Rimvydas
+	Smilga Edmundas
+	Staišiūnienė Eglė
+	Stanikūnas Rimantas Antanas
+	Stankevičienė Asta
+	Staroselskaja Julija
+	Subačienė Rasa
+	Šeibakas Danielius
+	Tamaševičius Virginijus
+	Tamulevičienė Daiva
+	Ulbinaitė Aurelija
+	Ulvidienė Erstida
+	Urbonavičius Sigitas
+	Vaitulevičienė Dalia
+	Valkauskas Romualdas
+	Visokavičienė Birutė Teodora
+	Zalieckaitė Laima
+	Žemgulienė Jolanta
+	Žilinskas Raimundas
+	Žiogelytė Laura
+
+ 
+Teisės fakultetas
+	Rinkėjo pavardė, vardas
+	Abramavičius Armanas
+	Aliukonienė Rita
+	Andruškevičius Arvydas
+	Aviža Saulius
+	Bakševičienė Rūta
+	Bartkus Gintautas
+	Bublienė Danguolė
+	Butkevičius Lauras
+	Cirtautaitė-Kaminskienė Simona
+	Davulis Tomas
+	Drazdauskas Stasys
+	Galginaitis Juozas
+	Goda Gintaras
+	Gorbatkov Andrej
+	Gumbis Jaunius
+	Isokaitė Indrė
+	Jarukaitis Irmantas
+	Jasaitis Gintaras
+	Juodkaitė Granskienė Gabrielė
+	Kasiliauskas Nerijus
+	Kriaučiūnas Deividas
+	Kuconis Pranas
+	Kūris Egidijus
+	Lastauskienė Giedrė
+	Latvelė Rūta
+	Laužikas Egidijus
+	Machovenko Jevgenij
+	Maculevič Jurij
+	Martišienė Beata
+	Matulionytė Elzė
+	Medelienė Aistė
+	Merkevičius Remigijus
+	Meška Arūnas
+	Michailovič Ilona
+	Mikalonienė Lina
+	Mikelėnas Valentinas
+	Milašiūtė Vygantė
+	Mizaras Vytautas
+	Nekrošius Vytautas
+	Normantas Augustinas
+	Paužaitė Kulvinskienė Jurgita
+	Petrylaitė Daiva
+	Petrylaitė Vida
+	Poška Deividas
+	Povilaitienė Ieva
+	Prapiestis Jonas
+	Rimkevičius Mantas
+	Sakalauskas Gintautas
+	Simaitis Rimantas
+	Smaliukas Andrius
+	Soloveičikas Deividas
+	Svetikaitė Rasa
+	Sudavičius Bronius
+	Šileikis Egidijus
+	Šinkūnas Haroldas
+	Šuminas Arūnas
+	Švedas Gintaras
+	Taminskas Algirdas
+	Tiažkijus Viktoras
+	Truskaitė Paškevičienė Jūratė
+	Urbanavičiūtė Giedrė
+	Vaičaitis Vaidotas
+	Vaišvilienė Renata
+	Vasiliauskas Vitas
+	Vėbraitė Vigita
+	Veršelytė Agnė
+	Vosyliūtė Andželika
+	Zdanavičius Donatas
+	Žalimas Dainius
+	Žalimienė Skirgailė
+	Žvaigždinienė Indrė
+
+ 
+Taikomųjų mokslų institutas
+	Rinkėjo pavardė, vardas
+	Adomėnas Povilas
+	Adomėnienė Ona
+	Aleksiejūnas Ramūnas
+	Bikbajevas Vitalijus
+	Buchovec Irina
+	Čeponis Tomas
+	Gaubas Eugenijus
+	Grivickas Vytautas
+	Jarašiūnas Kęstutis
+	Juršėnas Saulius Antanas
+	Kadys Arūnas
+	Kazlauskas Karolis
+	Kažukauskas Vaidotas
+	Lukšienė Živilė
+	Malinauskas Tadas
+	Mekys Algirdas
+	Miasojedovas Saulius
+	Nargelas Saulius
+	Novičkovas Algirdas
+	Skardžiūtė Lina
+	Storasta Jurgis
+	Tamulaitis Gintautas
+	Tomašiūnas Rolandas
+	Vaitkus Juozas Vidmantis
+	Vitta Pranciškus
+	Žąsinas Ernestas
+	Žukauskas Artūras
+
+ 
+Kauno humanitarinis fakultetas
+	Rinkėjo pavardė, vardas
+	Aleksandravičienė Dileta
+	Aliūkaitė Daiva
+	Alosevičienė Eglė
+	Aniūnas Povilas
+	Bankauskaitė-Sereikienė Gabija
+	Baranauskienė Rita
+	Bartkus Edverdas Vaclovas
+	Bartkutė Rasa
+	Bartkuvienė Inga
+	Biržietienė Skirmantė
+	Butleris Rimantas
+	Čiegis Remigijus
+	Deltuvienė Daiva
+	Dilijonas Darius
+	Diomidova Ala
+	Driaunys Kęstutis
+	Droessiger Hans Harry
+	Dubauskienė Giedrė
+	Fedorčenkienė Lina
+	Freitakas Eduardas
+	Gabrėnaitė Eglė
+	Garšva Gintautas
+	Gipienė Gailutė
+	Gudas Saulius
+	Jasinskas Edmundas
+	Jurėnienė Virginija
+	Juzelėnienė Saulutė
+	Kalnius Augustinas
+	Kamičaitytė Loreta
+	Kerevičienė Jurgita
+	Keturakienė Eglė
+	Kiaušienė Ilona
+	Klimaitienė Rūta
+	Krasnovas Aleksandras
+	Krikščiūnienė Dalia
+	Krūminienė Jadvyga
+	Kudirka Robertas
+	Kulakauskienė Dovilė
+	Linkevičiūtė Vilma
+	Lopata Audrius
+	Mačiulskienė Rita
+	Martinkus Andrius
+	Masteika Saulius
+	Mickienė Ilona
+	Mikalauskienė Asta
+	Moskaliova Vera
+	Nemickienė Živilė
+	Norvaiša Virginijus
+	Novelskaitė Aurelija
+	Pasvenskienė Vytautė
+	Perov Oleg
+	Pilinkus Donatas
+	Poliakovas Olegas
+	Pučėtaitė Raminta
+	Pušinaitė Rasa
+	Radavičiūtė Jūratė
+	Rimkutė Audronė
+	Rudžionienė Kristina
+	Rudžionis Vytautas Evaldas
+	Rumšienė Goda
+	Sakalauskas Virgilijus
+	Sarvutytė-Gailiūnienė Miglė
+	Satkauskaitė Danguolė
+	Solomonik-Pankrašova Tatjana
+	Šarkiūnaitė Ingrida
+	Šerėnienė Laima
+	Šležaitė Indrė
+	Štreimikienė Dalia
+	Svičiulienė Jūratė
+	Šarkauskienė Skirmantė
+	Tamulienė Vilma
+	Teresienė Deimantė
+	Toluba Bernardas
+	Tomkevičienė Danguolė Ramunė
+	Ulvydienė Loreta
+	Urbonienė Aistė
+	Vengalienė Dovilė
+	Verbauskienė Lina
+	Žigienė Gerda
+	Žilinskas Gintaras
+
+ 
+Filosofijos fakultetas
+	Rinkėjo pavardė, vardas
+	Bagdonas Albinas
+	Bagdžiūnienė Dalia
+	Barkauskienė Rasa
+	Bieliauskaitė Rasa
+	Bliumas Remigijus
+	Bulajeva Tatjana
+	Bulotaitė Laimutė
+	Butkienė Dovilė
+	Buzaitytė Kašalynienė Jolita
+	Čekuolienė Danguolė
+	Čėsnienė Ilona
+	Čiurlionis Jonas
+	Dagys Jonas
+	Dobryninas Aleksandras
+	Dovydaitienė Miglė
+	Dragūnevičius Kęstutis
+	Dranseika Vilius
+	Dubnikas Kęstutis
+	Dunajevas Eugenijus
+	Duoblienė Lilija
+	Gailienė Danutė
+	Gajdosikienė Indrė
+	Gevorgianienė Violeta
+	Gintilienė Gražina
+	Girdzijauskienė Sigita
+	Grigutytė Neringa
+	Gruževskis Boguslavas
+	Gudaitė Gražina
+	Gutauskas Mintautas
+	Gvaldaitė Lijana
+	Jakavonytė Laimutė
+	Jakutienė Vida
+	Jankauskas Skirmantas
+	Jonikova Viktorija
+	Juozeliūnienė Irena Emilija
+	Jusienė Roma
+	Kairys Antanas
+	Kardelis Naglis
+	Kočiūnas Rimantas Antanas
+	Kubilius Mindaugas
+	Laugalys Feliksas
+	Lepeškienė Vitalija
+	Matulionis Arvydas Virgilijus
+	Mickevičius Arūnas
+	Milerius Nerijus
+	Navickas Vytautas
+	Norkus Zenonas
+	Pakalniškienė Vilmantė
+	Petružytė Donata
+	Pivorius Vytautas
+	Plėšnys Albinas
+	Pociūtė Birutė Marytė
+	Poviliūnas Arūnas
+	Radavičienė Nijolė
+	Sabolius Kristupas
+	Sargautytė Rūta
+	Skruibis Paulius
+	Skučienė Daiva
+	Stanikūnas Rytis
+	Stonkuvienė Irena
+	Šabajevaitė Lidija
+	Šaulauskas Marius Povilas
+	Šumskienė Eglė
+	Švedaitė – Sakalauskė Birutė
+	Švegžda Algimantas
+	Targamadzė Vilija
+	Valantiejus Algimantas
+	Valickas Gintautas
+	Vanagaitė Kristina
+	Žalimienė Laimutė
+	Želvys Rimantas
+	Žilinskienė Laimutė
+	Žiliukaitė Rūta
+	Žukauskaitė Irena
+ 
+Religijos studijų ir tyrimų centras
+	Bacevičiūtė Danutė
+	Pažėraitė Aušrelė Kristina
+	Sodeika Tomas
+	Šerpytytė Rita
+ 
+Lyčių studijų centras
+	Leinartė Dalia
+	Stundžė Lijana
+
+ 
+Tarptautinių santykių ir politikos mokslų institutas
+	Rinkėjo pavardė, vardas
+	Arlauskaitė Natalija
+	Barcevičius Egidijus
+	Čičinskas Jonas
+	Girnius Kęstutis Kazimieras
+	Gudžinskas Liutauras
+	Janeliūnas Tomas
+	Jankauskas Algimantas
+	Jastramskis Mažvydas
+	Jokubaitis Alvydas
+	Jurkonis Vytis
+	Kasčiūnas Laurynas
+	Kavaliauskaitė Jūratė
+	Leonaitė Erika
+	Lukošaitis Alvidas
+	Maliukevičius Nerijus
+	Nakrošis Vitalis
+	Radžvilas Vytautas
+	Ramonaitė Ainė
+	Sirutavičius Vladas
+	Šešelgytė Margarita
+	Šlekys Deividas
+	Vilpišauskas Ramūnas
+	Vitkus Gediminas
+
+ 
+Užsienio kalbų institutas
+	Rinkėjo pavardė, vardas
+	Arcimavičienė Liudmila
+	Bačiulienė Rasa
+	Balšaitytė Danutė
+	Banionytė Vita
+	Belovodskaja Anastasija
+	Bikelienė Lina
+	Bukauskaitė Dalia
+	Caro Dugo Carmen
+	Chodzkienė Loreta
+	Dapšienė Aušra
+	Garbul Liudmila
+	Ginaitytė Miglė
+	Giniūnienė Laura
+	Gonsales Krus Chordana
+	Gornatkevičienė Diana
+	Gricius Vitalijus
+	Inčiuraitė Lina
+	Janavičienė Daiva
+	Janulienė Aušra
+	Jarmalavičius Darius
+	Jonaitienė Vida
+	Karpič Ana
+	Kašelionytė Jurgita
+	Kazanavičiūtė Lolita
+	Kontrimienė Simona
+	Korostenskaja Julija
+	Kosova Svetlana
+	Kriaučiūnienė Roma
+	Kučinskienė Aistė
+	Kudirkienė Olga
+	Makarova Viktorija
+	Matiukaitė Nida
+	Mažuolienė Zita
+	Melnikienė Danguolė
+	Montvilienė Rūta
+	Norvilienė Leonora
+	Paliukonienė Violeta
+	Palovienė Birutė Ona
+	Pankova Raisa
+	Pavan Luca
+	Petravičienė Giedrė
+	Pinkevičienė Dalia
+	Pleikienė Gracija
+	Pranculienė Aušrelė
+	Pukevičiūtė Virginija Jūratė
+	Rascon Caballero Alfonso
+	Riley Audronė
+	Rozgienė Inga
+	Sadeckienė Gražina
+	Shipman Hannah Lucy
+	Sirvydė Rūta
+	Snapkauskaitė Diana
+	Stalnionytė Rasa
+	Stankūnienė Violeta Ona
+	Stasiūnaitė Ieva
+	Straižytė Danguolė
+	Subačienė Ilana
+	Šeleg Monika
+	Širiakovaitė Rūta
+	Tamošaitienė Rasa
+	Trečiokaitė Albina
+	Valiukienė Roma
+	Vasiliauskienė Dalytė Zita
+	Vaskelaitė Vilma
+	Zavadskienė Loreta
+	Židonienė Eglė
+
+ 
+Teorinės fizikos ir astronomijos institutas
+	Rinkėjo pavardė, vardas
+	Acus Artūras
+	Alaburda Miglius
+	Barisevičius Gintaras
+	Bogdanovičius Pavelas
+	Chorniy Yiuriy
+	Černis Kazimieras
+	Gaigalas Gediminas
+	Gineitytė Viktorija
+	Gontis Vygintas
+	Janulis Rimvydas
+	Jonauskas Valdas
+	Juodagalvis Andrius
+	Jurčiukonis Darius
+	Juršėnas Rytis
+	Juzeliūnas Gediminas
+	Karpuškienė Rasa
+	Kaulakys Bronislovas
+	Kazlauskas Stasius Algirdas
+	Kisielius Romualdas
+	Kynienė Aušra
+	Kučas Sigitas
+	Kučinskas Arūnas
+	Kudriašov Viačeslav
+	Kupliauskienė Alicija
+	Masys Šarūnas
+	Maskoliūnas Marius
+	Merkelis Gintaras Alfredas
+	Mikolaitis Šarūnas
+	Momkauskaitė Alina
+	Norvaišas Egidijus
+	Pakštienė Erika
+	Prakapavičius Dainius
+	Puzeras Eduardas
+	Ruseckas Julius
+	Stonkutė Edita
+	Šimonis Vytautas
+	Tamošiūnas Karolis
+	Tamulienė Jelena
+	Tautvaišienė Gražina
+	Vektarienė Aušra
+	Vektaris Gytis
+	Zdanavičius Justas
+
+ 
+Biotechnologijos institutas
+	Rinkėjo pavardė, vardas
+	Abraitienė Asta
+	Bulavaitė Aistė
+	Baranauskė Simona
+	Dalgėdienė Indrė
+	Daujotytė Dalia
+	Dudutienė Virginija
+	Gasiūnas Giedrius
+	Gedvilaitė Alma
+	Gerasimaitė Rūta
+	Gruškienė Rūta
+	Jachno Jelena
+	Kairys Visvaldas
+	Kanopka Arvydas
+	Klimašauskas Saulius
+	Kostiuk Georgij
+	Kriukienė Edita
+	Kučinskaitė-Kodzė Indrė
+	Lasickienė Rita
+	Liutkevičiūtė Zita
+	Lukinavičius Gražvydas
+	Manakova Elena
+	Margelevičius Mindaugas
+	Matijošytė Inga
+	Matulienė Jurgita
+	Matulis Daumantas
+	Margelevičius Mindaugas
+	Michailovienė Vilma
+	Petraitytė-Burneikienė Rasa
+	Petrauskas Vytautas
+	Petrikaitė Vilma
+	Plečkaitytė Milda
+	Pudžiuvytė Birutė
+	Rakauskaitė Rasa
+	Ražanskas Raimundas
+	Sasnauskas Giedrius
+	Sasnauskas Kęstutis
+	Slibinskas Rimantas
+	Smirnovas Vytautas
+	Stakėnas Petras
+	Staševskij Zdislav
+	Šidlauskienė Janina
+	Šikšnys Virginijus
+	Šilanskas Arūnas
+	Šinkūnas Tomas
+	Tamulaitienė Giedrė
+	Tamulaitis Gintautas
+	Tomkuvienė Miglė
+	Urbanavičiūtė Giedrė
+	Venclovas Česlovas
+	Vilkaitis Giedrius
+	Zaremba Mindaugas
+	Zaveckas Mindaugas
+	Zubrienė Asta
+	Žvirblienė Aurelija
+	Žvirblis Gintautas
+
+ 
+Biochemijos institutas
+	Rinkėjo pavardė, vardas
+	Anusevičius Žilvinas
+	Bachmatova Irina
+	Baltriukienė Daiva
+	Borutinskaitė Veronika Viktorija
+	Bratkovskaja Irina
+	Bukelskienė Virginija
+	Bulovas Arūnas
+	Časaitė Vida
+	Čėnas Narimantas
+	Gasparavičiūtė Renata
+	Ger Marija
+	Imbrasaitė Aušra
+	Jančienė Regina
+	Kalinienė Laura
+	Kalvelytė Audronė Valerija
+	Kaupinis Algirdas
+	Klimavičius Kazimieras Algirdas
+	Kosychova Lidija
+	Krikštopaitis Kastis
+	Kulys Juozas
+	Kurtinaitienė Bogumila
+	Laurinavičius Valdas Stanislovas
+	Marcinkevičienė Liucija
+	Marozienė Audronė
+	Meškienė Rita
+	Meškys Rolandas
+	Mikulskienė Gema
+	Miliukienė Valė
+	Misevičienė Lina
+	Navakauskienė Rūta
+	Niaura Gediminas
+	Povilonienė Simona
+	Razumas Valdemaras
+	Razumienė Julija
+	Rutkienė Rasa
+	Savickienė Jūratė
+	Sirutkaitis Romualdas Aleksas
+	Staniulytė Zita
+	Stulpinas Aurimas
+	Šarlauskas Jonas
+	Šimkus Remigijus
+	Tauraitė Daiva
+	Tetianec Lidija
+	Treigytė Gražina
+	Truncaitė Lidija
+	Valinčius Gintaras
+	Valius Mindaugas
+	Vidžiūnaitė Regina
+	Zajančauskaitė Aurelija
+
+ 
+Matematikos ir informatikos institutas
+	Rinkėjo pavardė, vardas
+	Alonderis Romas
+	Astrauskas Arvydas
+	Belovas Igoris
+	Beniušė Margarita
+	Bernatavičienė Jolita
+	Čaplinskas Albertas
+	Dagienė Valentina
+	Dzemyda Gintautas
+	Gylys Remigijus Petras
+	Januškevičienė Olga
+	Jevsikova Tatjana
+	Karbauskaitė Rasa
+	Kasparaitis Pijus
+	Kazlauskas Kazys
+	Kliukienė Regina
+	Kubilius Kęstutis
+	Kurasova Olga
+	Kurilov Jevgenij
+	Lančinskas Algirdas
+	Lupeikienė Audronė
+	Marcinkevičius Virginijus
+	Maskeliūnas Saulius
+	Medvedev Viktor
+	Minkevičius Saulius
+	Mockus Jonas
+	Norvidas Saulius
+	Pliuškevičius Regimantas
+	Pupeikis Rimantas
+	Radavičius Marijus
+	Rudzkis Rimantas
+	Rutkauskas Stasys
+	Sakalauskaitė Jūratė
+	Sakalauskas Leonidas
+	Sapagovas Mifodijus
+	Sunklodas Jonas Kazys
+	Surgailis Donatas
+	Štikonas Artūras
+	Telksnys Adolfas Laimutis
+	Treigys Povilas
+	Vaičiulis Marijus
+	Žilinskas Antanas
+	Žilinskas Julius

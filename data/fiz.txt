@@ -1,0 +1,11 @@
+Biochemijos institutas
+Biotechnologijos institutas
+Chemijos fakultetas
+Fizikos fakultetas
+Gamtos mokslų fakultetas
+Matematikos ir informatikos fakultetas
+Matematikos ir informatikos institutas
+Medicinos fakultetas
+Sveikatos ir sporto centras
+Taikomųjų mokslų institutas
+Teorinės fizikos ir astronomijos institutas
