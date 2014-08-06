@@ -12,6 +12,3 @@ col = rep(c("#FF0000", "#00FF00"), 4)
 circos.trackPoints(a$factor, a$x, a$y, col = col, pch = 16, cex = 0.5)
 circos.text(-1, 0.5, "left", sector.index = "a", track.index = 1)
 circos.text(1, 0.5, "right", sector.index = "a")
-circos.initialize(factors = a$factor, x = a$x)
- 
-circos.trackPlotRegion(factors = a$factor, y = a$y, panel.fun = function(x, y) { circos.axis()  })

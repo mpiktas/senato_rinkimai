@@ -1,4 +1,5 @@
 do.circle <- function(finst) {
+    extract <- magrittr:::extract
     fsent <- finst %>% group_by(Vieta) %>% summarize(Sent=sum(Viso)) %>% arrange(-Sent) %>% set_names(c("Padalinys","Sent"))
     frec <- finst %>% group_by(Padalinys) %>% summarize(Received=sum(Viso)) %>% arrange(-Received)
 
@@ -7,7 +8,7 @@ do.circle <- function(finst) {
     fsr$Received[is.na(fsr$Received)] <- 0
     fsr <- fsr %>% mutate(Padalinys=as.character(Padalinys)) %>% arrange(Padalinys)
     
-    fsr <- fsr %>% mutate(All=Sent+Received,col=brewer.pal(10,"Paired"))
+    fsr <- fsr %>% mutate(All=Sent+Received,col=brewer.pal(nrow(fsr),"Paired"))
     
     par(mar = c(1, 1, 1, 1), lwd = 0.1, cex = 0.7)
     circos.par("default.track.height" = 0.1)
@@ -42,3 +43,4 @@ do.circle <- function(finst) {
     }
     list(fsr=fsr,ff=ff)
 }
+
