@@ -37,6 +37,7 @@ mtk <- mtk %>% group_by(Vieta) %>% mutate(Proc=Balsai/sum(Balsai)*7*100)
 qplot(x=Vieta,y=Proc,data=filter(mtk,Kandidatas %in% fwin),geom="bar",stat="identity") + facet_wrap(~Kandidatas)
 
 ##5. Kvorumas
+##To do: sukurti analogišką failą  Hum_balsavo_viso.csv
 #fvis <- read.csv("data/Fiz_balsavo_viso.csv")
 #mtk <-  merge(mtk,fvis) %>% mutate(Proc1=Balsai/Balsavo*100)
 #qplot(x=Vieta,y=Proc1,data=filter(mtk,Kandidatas %in% fwin),geom="bar",stat="identity") + facet_wrap(~Kandidatas)
@@ -49,23 +50,13 @@ finst <- mtk %>% group_by(Padalinys,Vieta) %>% summarize(Viso=sum(Balsai))
 finst2 <- mtk %>% filter(Kandidatas %in% fwin)%>% group_by(Padalinys,Vieta) %>% summarize(Viso=sum(Balsai)) 
 finst3 <- mtk %>% filter(!(Kandidatas %in% fwin))%>% group_by(Padalinys,Vieta) %>% summarize(Viso=sum(Balsai)) 
 
-##8. Siuntė (ty atidavė) balsų ir gavo balsų
-fsent <- finst %>% group_by(Vieta) %>% summarize(Sent=sum(Viso)) %>% arrange(-Sent) %>% set_names(c("Padalinys","Sent"))
-frec <- finst %>% group_by(Padalinys) %>% summarize(Received=sum(Viso)) %>% arrange(-Received)
-
-fsr <- merge(fsent,frec,all=TRUE)
-fsr$Sent[is.na(fsr$Sent)] <- 0
-fsr$Received[is.na(fsr$Received)] <- 0
-fsr <- fsr %>% mutate(Padalinys=as.character(Padalinys)) %>% arrange(Padalinys)
-
-fsr <- fsr %>% mutate(All=Sent+Received,col=brewer.pal(10,"Paired"))
-
-##9.
+##8.
 library(circlize)
+#Visi balsai
 do.circle(finst)
+#Balsai už laimėjusius
+do.circle(finst2)
+#Pralaimėjusių balsai
+do.circle(finst3)
 
-
-aa <- finst %>% filter(Vieta=="MF")
-aa$end <- cumsum(aa$Viso)
-aa$start <- lag(aa$end,default=0)+1
 
